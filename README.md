@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-## Hi there!
 <div aling="center">
   <a href="https://github.com/BrunoTassinari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTassinari&layout=compact&langs_count=7&theme=merko"/>
