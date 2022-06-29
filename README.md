@@ -1,9 +1,11 @@
 # Hi there 👋
+<div style="display: flex">
 <div aling="center">
   <a href="https://github.com/BrunoTassinari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTassinari&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<div style="display: inline_block"><br>
+ 
   
   <img align="center" alt="java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -11,6 +13,8 @@
   <img align="center" alt="node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="type" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="rT" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+</div>
  
   #
   
