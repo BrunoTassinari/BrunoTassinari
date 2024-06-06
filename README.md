@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou o Bruno sou <strong>Desenvolvedor fullstack nodejs/react</strong>.<br>
-  No momento sou desenvolveor na Kbase softwares a 2 anos.<br>
+  Olá! Eu sou o Bruno! Sou <strong>Desenvolvedor fullstack nodejs/react</strong>.<br><br>
+  No momento sou desenvolveor na <strong>Kbase</strong> a 2 anos.<br>
   Atualmente, ando estudando a plataforma DOTNET e aprofundando sobre C#
 </p>
 
