@@ -2,11 +2,16 @@
 
 <p align="left"> 
   Olá! Eu sou o Bruno sou <strong>Desenvolvedor fullstack nodejs/react</strong>.<br>
-  No momento sou desenvolveor na Kbase softwares a 2 anos,
+  No momento sou desenvolveor na Kbase softwares a 2 anos.
+  Atualmente, ando estudando a plataforma DOTNET e aprofundando sobre C#
 </p>
 
 <p align="left">
-  🕹️ Javascript, C#, Java, React/Next, HTML/CSS, PostgreSQL, NextJS, Docker, ExpressJS
+  <strong>Tecnologias</strong>
+</p>
+
+<p align="left">
+  Javascript | C# | Java | React/Next | HTML/CSS | PostgreSQL | NextJS | Docker | ExpressJS
 </p>
 
 <p align="left">
