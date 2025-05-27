@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá! Eu sou o Bruno! Sou <strong>Desenvolvedor fullstack nodejs/react</strong>.<br><br>
   No momento sou desenvolveor na <strong>Kbase</strong> a 2 anos.<br>
-  Atualmente, ando estudando a plataforma DOTNET e aprofundando sobre C#
+  Atualmente estudando a plataforma DOTNET e aprofundando sobre C#
 </p>
 
 <p align="left">
